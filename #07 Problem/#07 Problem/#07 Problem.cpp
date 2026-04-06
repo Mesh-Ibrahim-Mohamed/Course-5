@@ -18,6 +18,7 @@ int ReversNumber(int Number)
 		Remainder = Number % 10;
 		Number = Number / 10;
 		Number2 = Number2 * 10 + Remainder ;
+
 	}
 	return Number2;
 
@@ -29,6 +30,6 @@ int main()
 {
 	int Read = ReadPositive("Enter a Positive Number = ");
 
-	cout << ReversNumber(Read);
+	cout << "\nRevers is\n" << ReversNumber(Read);
 
 }
