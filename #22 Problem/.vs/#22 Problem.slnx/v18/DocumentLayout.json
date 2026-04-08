@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Course-5\\#22 Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD83B4C-55E5-4702-AF48-C2AA58D31AA7}|#22 Problem\\#22 Problem.vcxproj|C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Course-5\\#22 Problem\\#22 Problem\\#22 Problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD83B4C-55E5-4702-AF48-C2AA58D31AA7}|#22 Problem\\#22 Problem.vcxproj|solutionrelative:#22 Problem\\#22 Problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\gs_report.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gs_report.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\gs_report.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\gs_report.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\gs_report.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\crt\\src\\vcruntime\\gs_report.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-08T20:41:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#22 Problem.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Course-5\\#22 Problem\\#22 Problem\\#22 Problem.cpp",
+              "RelativeDocumentMoniker": "#22 Problem\\#22 Problem.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Course-5\\#22 Problem\\#22 Problem\\#22 Problem.cpp",
+              "RelativeToolTip": "#22 Problem\\#22 Problem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T17:23:58.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

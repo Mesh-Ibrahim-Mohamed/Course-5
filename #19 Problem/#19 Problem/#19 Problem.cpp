@@ -3,12 +3,17 @@
 
 using namespace std;
 
+int RandomNumber(int From, int To)
+{
+	int randNum = rand() % (To - From + 1) + From;
+		return randNum;
+}
+
 
 int main()
 {
 	srand((unsigned)time(NULL));
 
-	cout << rand() << endl;
-	cout << rand();
+	cout << RandomNumber(5661, 5662);
 
 }
